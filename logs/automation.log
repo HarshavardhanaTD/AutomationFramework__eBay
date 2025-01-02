@@ -1,0 +1,32 @@
+18:00:01.582 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harshavardhana T D\eclipse-workspace\AutomationFramework__eBay\grouping.xml"
+18:00:02.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harshavardhana T D\eclipse-workspace\AutomationFramework__eBay\grouping.xml
+
+18:05:50.355 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harshavardhana T D\eclipse-workspace\AutomationFramework__eBay\grid-docker.xml"
+18:05:50.961 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harshavardhana T D\eclipse-workspace\AutomationFramework__eBay\grid-docker.xml
+
+18:15:26.303 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harshavardhana T D\eclipse-workspace\AutomationFramework__eBay\grid-docker.xml"
+18:15:26.840 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harshavardhana T D\eclipse-workspace\AutomationFramework__eBay\grid-docker.xml
+
+18:15:51.428 [main] INFO  testCases.TC_0001_AccountRegistration - **** Started TC001******
+18:15:53.896 [main] INFO  testCases.TC_0001_AccountRegistration - **** Home page displayed******
+18:15:57.905 [main] INFO  testCases.TC_0001_AccountRegistration - **** Account page displayed******
+18:16:32.600 [main] INFO  testCases.TC_0001_AccountRegistration - **** Ended TC001******
+18:16:54.114 [main] INFO  testCases.TC_002LoginTest - *******Starting TC002 Login Test*******
+18:17:02.053 [main] INFO  testCases.TC_002LoginTest -  Finished TC002 Login Test  
+22:33:42.672 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harshavardhana T D\eclipse-workspace\AutomationFramework__eBay\master.xml"
+22:34:03.843 [main] INFO  testCases.TC_0001_AccountRegistration - **** Started TC001******
+22:34:10.094 [main] INFO  testCases.TC_0001_AccountRegistration - **** Home page displayed******
+22:34:14.110 [main] INFO  testCases.TC_0001_AccountRegistration - **** Account page displayed******
+22:34:49.904 [main] INFO  testCases.TC_0001_AccountRegistration - **** Ended TC001******
+22:35:06.746 [main] INFO  testCases.TC_002LoginTest - *******Starting TC002 Login Test*******
+22:35:18.469 [main] INFO  testCases.TC_002LoginTest -  Finished TC002 Login Test  
+22:58:17.623 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harshavardhana T D\eclipse-workspace\AutomationFramework__eBay\master.xml"
+22:58:33.898 [main] INFO  testCases.TC_0001_AccountRegistration - **** Started TC001******
+22:58:38.479 [main] INFO  testCases.TC_0001_AccountRegistration - **** Home page displayed******
+22:58:42.513 [main] INFO  testCases.TC_0001_AccountRegistration - **** Account page displayed******
+22:59:16.781 [main] INFO  testCases.TC_0001_AccountRegistration - **** Ended TC001******
+22:59:32.289 [main] INFO  testCases.TC_002LoginTest - *******Starting TC002 Login Test*******
+22:59:40.093 [main] INFO  testCases.TC_002LoginTest -  Finished TC002 Login Test  
